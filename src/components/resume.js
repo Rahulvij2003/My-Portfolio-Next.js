@@ -8,20 +8,20 @@ export default function ResumePage({ isActive }) {
       </header>
 
 {/* resume download button */}
-<section className="resumeDownload">
-<a
-  href="/assets/pdf/Rahul_vij_resume.pdf"
-  download
-  target="_blank"
-  rel="noopener noreferrer"
-  title="Resume Rahul Vij"
-  className="form-btn"
-  style={{ display: "inline-flex", alignItems: "center", gap: "0.5rem", color: "hsl(45, 100%, 72%)", textDecoration: "none" }}
->
-  <ion-icon name="download" role="img" class="md hydrated" aria-label="paper plane"></ion-icon>
-  <span>Download Resume</span>
-</a>
-</section>
+// <section className="resumeDownload">
+// <a
+//   href="/assets/pdf/Rahul_vij_resume.pdf"
+//   download
+//   target="_blank"
+//   rel="noopener noreferrer"
+//   title="Resume Rahul Vij"
+//   className="form-btn"
+//   style={{ display: "inline-flex", alignItems: "center", gap: "0.5rem", color: "hsl(45, 100%, 72%)", textDecoration: "none" }}
+// >
+//   <ion-icon name="download" role="img" class="md hydrated" aria-label="paper plane"></ion-icon>
+//   <span>Download Resume</span>
+// </a>
+// </section>
  {/* Experience Section */}
       <section className="timeline">
         <div className="title-wrapper">
