@@ -46,7 +46,7 @@ export default function AboutPage({ isActive, onOpenModal }) {
 
       <section className="about-text">
         <p>
-        With over 1 year of experience in software development and full stack development, I specialize in delivering robust digital solutions tailored to business needs. My expertise spans Agile methodologies and end-to-end full-stack development. Currently, I work as a Full Stack Developer at Tech Arch Softwares, ensuring smooth execution from concept to deployment.
+        With over 4 years of experience in software development and full stack development, I specialize in delivering robust digital solutions tailored to business needs. My expertise spans Agile methodologies and end-to-end full-stack development. Currently, I work as a Full Stack Developer, ensuring smooth execution from concept to deployment.
 </p>
         <p>
 Driven by a passion for technology and problem-solving, I’ve collaborated with both startups and enterprises to optimize workflows, enhance user experiences, and build seamless mobile and web applications. Whether it’s developing scalable web platforms, streamlining development lifecycles, or integrating AI for business intelligence, I focus on delivering measurable and impactful results.
