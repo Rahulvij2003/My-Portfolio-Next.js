@@ -14,9 +14,10 @@ export default function PortfolioPage({ isActive }) {
   { id: 4, title: "Taxi Booking Mobile Application", category: "Mobile Application development", image: "/assets/images/melontaxi.png", link: "" },
   { id: 5, title: "Culturelink.", category: "Full Stack Website Development", image: "/assets/images/culturelink.png", link: "http://64.227.111.183/" },
   { id: 6, title: "SugarPlum Tech", category: "Full Stack Website Development", image: "/assets/images/sugarplum.png", link: "https://demo.sugarplumtech.com/sign-in?redirect_url=https%3A%2F%2Fdemo.sugarplumtech.com%2Fdashboard" },
-  { id: 9, title: "Shopper", category: "Full Stack Website Development", image: "/assets/images/shopper.png", link: "https://ecommerce-mu-coral-50.vercel.app/" },
   { id: 7, title: "Armenia Expedition", category: "Full Stack Website Development", image: "/assets/images/amer.png", link: "https://tranquil-zabaione-9a73ec.netlify.app/" },
   { id: 8, title: "Vip Bio", category: "Full Stack Website Development", image: "/assets/images/vipbio.png", link: "https://peppy-horse-8c7438.netlify.app/" },
+  { id: 9, title: "Shopper", category: "Full Stack Website Development", image: "/assets/images/shopper.png", link: "https://ecommerce-mu-coral-50.vercel.app/" },
+
 ]
 
   const categories = ["all", "Full Stack Website Development", "Mobile Application development"]
