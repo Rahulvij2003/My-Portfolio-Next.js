@@ -34,8 +34,8 @@ export default function ResumePage({ isActive }) {
         <ol className="timeline-list">
           {[
   {
-    title: "Full Stack Developer | Tech Arch Softwares",
-    year: "(2024 - Present)",
+    title: "Full Stack Developer | Freelance - Self Employed",
+    year: "(2021 - Present)",
     text: "Leading 18+ developers across 25+ projects. Managing client requirements, estimations, Agile delivery, and ensuring high-quality outputs."
   }
 ].map((exp, index) => (
