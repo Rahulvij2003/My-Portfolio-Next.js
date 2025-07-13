@@ -8,10 +8,10 @@ export default function PortfolioPage({ isActive }) {
   const [isSelectOpen, setIsSelectOpen] = useState(false)
 
   const projects = [
-  { id: 1, title: "Cumulus.rip", category: "Full Stack Website Development", image: "/assets/images/cumulus.png", link: "https://www.cumulus.rip/" },
+  // { id: 1, title: "Cumulus.rip", category: "Full Stack Website Development", image: "/assets/images/cumulus.png", link: "https://www.cumulus.rip/" },
   { id: 2, title: "Toyflix", category: "Mobile Application development", image: "/assets/images/toyflix.png", link: "https://apps.apple.com/in/app/toyflix/id1501836409" },
-  { id: 3, title: "Tripwix", category: "Full Stack Website Development", image: "/assets/images/tripwix.png", link: "https://www.tripwix.com/en" },
-  { id: 4, title: "Melon Taxi", category: "Mobile Application development", image: "/assets/images/melontaxi.png", link: "https://apps.apple.com/in/app/melon-taxi/id6741466242" },
+  // { id: 3, title: "Tripwix", category: "Full Stack Website Development", image: "/assets/images/tripwix.png", link: "https://www.tripwix.com/en" },
+  // { id: 4, title: "Melon Taxi", category: "Mobile Application development", image: "/assets/images/melontaxi.png", link: "https://apps.apple.com/in/app/melon-taxi/id6741466242" },
   { id: 5, title: "Culturelink.", category: "Full Stack Website Development", image: "/assets/images/culturelink.png", link: "http://64.227.111.183/" },
   { id: 6, title: "SugarPlum Tech", category: "Full Stack Website Development", image: "/assets/images/sugarplum.png", link: "https://demo.sugarplumtech.com/sign-in?redirect_url=https%3A%2F%2Fdemo.sugarplumtech.com%2Fdashboard" },
   { id: 7, title: "Shopper", category: "Full Stack Website Development", image: "/assets/images/shopper.png", link: "https://ecommerce-mu-coral-50.vercel.app/" },
